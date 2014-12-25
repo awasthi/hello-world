@@ -1,0 +1,7 @@
+{
+	"name": "awasthi/hello-world",
+	"version": "1.0.0",
+    "require": {
+        "monolog/monolog": "1.0.*"
+    }
+}
